@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets file (we'll create this next)
+.env
+
+# MySQL Workbench
+*.mwb.bak
